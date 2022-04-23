@@ -1,0 +1,20 @@
+
+body{
+    background-image: 
+    url(https://i.pinimg.com/originals/7b/ed/1f/7bed1f0dc15bcba3d90e3e80d18e3a24.jpg);
+    background-repeat: no-repeat;
+    text-align: left;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    padding: 55px;
+    margin-top: 80px;
+
+}
+
+button{
+    background-color: white;
+    color: black;
+}
+
+
